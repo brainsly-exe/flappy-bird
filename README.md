@@ -1,5 +1,5 @@
 # Flappy Bird
-## Flappy Bird criado sem frameworks, para fins de estudo
+## Flappy Bird criado sem frameworks, para fins de estudo em Js
 
 Projeto de um jogo Flappy Bird simples desenvolvido durante o capitulo de DOM do Curso Web Moderno.
 
